@@ -33,7 +33,20 @@ This step chains all the blocks and includes:
 - add a sidebar for difficulty
 - add a button for validating the information
 
-# Streamlit 
+
+
+# Streamlit Interface
 Store transaction record and see the ledger add each block. 
+
+Our application in the works: 
+![Application in the works](https://raw.githubusercontent.com/halamkim/challenge_18/main/Application.png
+)
+
 Example of our ledger:
-!(Example of ledger){}
+
+![Example of ledger](https://raw.githubusercontent.com/halamkim/challenge_18/main/Ledger%20Example.png)
+
+
+You can validate the ledger:
+![Validating](https://raw.githubusercontent.com/halamkim/challenge_18/main/Validation.png)
+
